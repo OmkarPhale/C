@@ -1,0 +1,31 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=> Commenting - A comment is basically a text note that gives an explanation about the source code.
+- Single Line Comment Style : // This is a single line comment.
+- Multi Line Comment Style :
+/* This 
+* is 
+* a 
+* multi 
+* line 
+* comment.
+*/
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=> What is "void" keyword? - 
+- When used as a function return type, the void keyword specifies that the function doesn't return a value. 
+- When used for a function's parameter list, void specifies that the function takes no parameters. 
+- When used in the declaration of a pointer, void specifies that the pointer is "universal."
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=> Entry-Point or main() Function - 
+- An entry point is a location in code where a transfer of program control / execution occurs. 
+- The main function "main()" is the entry point to a C program and is called when the application starts executing.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=> What is "void" keyword? - 
+- When used as a function return type, the void keyword specifies that the function doesn't return a value. 
+- When used for a function's parameter list, void specifies that the function takes no parameters. 
+- When used in the declaration of a pointer, void specifies that the pointer is "universal."
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=> What is "int" keyword? - In C language,
+- An integer type variable can store zero, positive, and negative values without any decimal. 
+- The integer data type is represented by the 'int' keyword, and it can be both signed or unsigned. 
+- By default, the value assigned to an integer variable is considered positive if it is unsigned.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
